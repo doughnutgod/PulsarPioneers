@@ -1,0 +1,40 @@
+Test Data File:/COMP3850/every5thbinarypulsar6.txt
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	8.978457552014159e-97	Non-Random
+02. Frequency Test within a Block                 	8.187612166953031e-79	Non-Random
+03. Run Test                                      	0.0                 	Non-Random
+04. Longest Run of Ones in a Block                	5.392896301832688e-51	Non-Random
+05. Binary Matrix Rank Test                       	0.001529170981601208	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	1.3174063988886283e-20	Non-Random
+07. Non-Overlapping Template Matching Test        	6.242048859905477e-238	Non-Random
+08. Overlapping Template Matching Test            	0.6330073369185354  	Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	3.6474027321470127e-20	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	2.7794547868149687e-180	Non-Random
+13. Cummulative Sums (Forward) Test               	1.0                 	Random
+14. Cummulative Sums (Reverse) Test               	1.0                 	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	30.571428571428573  	1.138085401980086e-05	Non-Random
+				-3        	16.599999999999998  	0.005324337409375595	Non-Random
+				-2        	30.0                	1.4748581038443073e-05	Non-Random
+				-1        	4.0                 	0.5494159513527802  	Random
+				+1        	2.0                 	0.8491450360846096  	Random
+				+2        	0.6666666666666666  	0.984747879018509   	Random
+				+3        	0.4                 	0.9953295932358704  	Random
+				+4        	0.2857142857142857  	0.9979031595107858  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	3                   	0.9034789137192296  	Random
+				-8.0      	4                   	0.7962534147376392  	Random
+				-7.0      	3                   	0.8897069355331012  	Random
+				-6.0      	1                   	0.8801684549067255  	Random
+				-5.0      	1                   	0.8676323347781927  	Random
+				-4.0      	1                   	0.8501067391385259  	Random
+				-3.0      	1                   	0.8230632737581215  	Random
+				-2.0      	2                   	1.0                 	Random
+				-1.0      	3                   	0.6170750774519739  	Random
