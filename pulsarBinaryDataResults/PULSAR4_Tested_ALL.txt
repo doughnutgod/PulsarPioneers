@@ -1,0 +1,42 @@
+Test Data File:/COMP3850/pulsarBinaryData/allpulsar4.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.981293871171544   	Random
+02. Frequency Test within a Block                 	3.9111180494770155e-53	Non-Random
+03. Run Test                                      	3.419134589877965e-21	Non-Random
+04. Longest Run of Ones in a Block                	3.9314953800158574e-08	Non-Random
+05. Binary Matrix Rank Test                       	0.6937201409888837  	Random
+06. Discrete Fourier Transform (Spectral) Test    	0.01820559776764276 	Random
+07. Non-Overlapping Template Matching Test        	0.07116676742962195 	Random
+08. Overlapping Template Matching Test            	0.2957082753892122  	Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	0.4615271549434389  	Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	2.0996399674303124e-12	Non-Random
+13. Cummulative Sums (Forward) Test               	1.036984723414382e-09	Non-Random
+14. Cummulative Sums (Reverse) Test               	8.929403975991714e-10	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	0.8571428571428572  	0.973246337232544   	Random
+				-3        	1.2                 	0.9448773650021219  	Random
+				-2        	2.0                 	0.8491450360846096  	Random
+				-1        	6.0                 	0.30621891841327875 	Random
+				+1        	1.3333333333333335  	0.9314646171334655  	Random
+				+2        	4.296296296296297   	0.507591586738595   	Random
+				+3        	7.640000000000001   	0.17722382548124416 	Random
+				+4        	14.684159378036929  	0.01180066357561202 	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-1.0      	4                   	0.5637028616507731  	Random
+				+1.0      	3                   	0.3864762307712327  	Random
+				+2.0      	3                   	0.6170750774519738  	Random
+				+3.0      	3                   	0.6985353583033387  	Random
+				+4.0      	4                   	0.8272593465627114  	Random
+				+5.0      	4                   	0.8473896596867143  	Random
+				+6.0      	2                   	0.7277235466695502  	Random
+				+7.0      	3                   	0.8101812364104737  	Random
+				+8.0      	4                   	0.8814974521910136  	Random
+				+9.0      	3                   	0.8336348830246822  	Random

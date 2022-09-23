@@ -1,0 +1,41 @@
+Test Data File:/COMP3850/pulsarBinaryData/every5thbinarypulsar4.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.833935414088552   	Random
+02. Frequency Test within a Block                 	0.0033355256361334634	Non-Random
+03. Run Test                                      	0.0033543601408409867	Non-Random
+04. Longest Run of Ones in a Block                	0.4354379560463678  	Random
+05. Binary Matrix Rank Test                       	-1.0                	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.3124613959651088  	Random
+07. Non-Overlapping Template Matching Test        	0.9998748835690173  	Random
+08. Overlapping Template Matching Test            	nan                 	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	-1.0                	Non-Random
+11. Serial test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	1.0                 	Random
+13. Cummulative Sums (Forward) Test               	0.003970363615399835	Non-Random
+14. Cummulative Sums (Reverse) Test               	0.007883570102818403	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	0.2857142857142857  	0.9979031595107858  	Random
+				-3        	0.4                 	0.9953295932358704  	Random
+				-2        	0.6666666666666666  	0.984747879018509   	Random
+				-1        	2.0                 	0.8491450360846096  	Random
+				+1        	16.0                	0.006844073922420431	Non-Random
+				+2        	23.28395061728395   	0.0002978753933180899	Non-Random
+				+3        	22.883200000000002  	0.000355369664319106	Non-Random
+				+4        	25.295293627655145  	0.0001221804401181949	Non-Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				+1.0      	7                   	0.012419330651552277	Random
+				+2.0      	17                  	1.4902335792427664e-05	Non-Random
+				+3.0      	25                  	2.7044847886335546e-07	Non-Random
+				+4.0      	22                  	0.00015705228423075165	Non-Random
+				+5.0      	13                  	0.06675301516963446 	Random
+				+6.0      	12                  	0.13166801602281422 	Random
+				+7.0      	17                  	0.03751400161554004 	Random
+				+8.0      	17                  	0.05280751141611363 	Random
+				+9.0      	11                  	0.27509237663589103 	Random

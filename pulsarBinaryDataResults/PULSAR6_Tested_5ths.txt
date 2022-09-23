@@ -1,0 +1,42 @@
+Test Data File:/COMP3850/pulsarBinaryData/every5thbinarypulsar6.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.49896229860376107 	Random
+02. Frequency Test within a Block                 	0.5958830905651777  	Random
+03. Run Test                                      	0.8349581999486967  	Random
+04. Longest Run of Ones in a Block                	0.8328671630538202  	Random
+05. Binary Matrix Rank Test                       	-1.0                	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.6981763553291205  	Random
+07. Non-Overlapping Template Matching Test        	0.9999999112059792  	Random
+08. Overlapping Template Matching Test            	nan                 	Non-Random
+09. Maurer's Universal Statistical test           	-1.0                	Non-Random
+10. Linear Complexity Test                        	-1.0                	Non-Random
+11. Serial test:
+													0.4989610874592239  	Random
+													0.09842685699183606 	Random
+12. Approximate Entropy Test                      	1.0                 	Random
+13. Cummulative Sums (Forward) Test               	0.47267565435845704 	Random
+14. Cummulative Sums (Reverse) Test               	0.8490425811417259  	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	4.880287975248408   	0.4306641688300007  	Random
+				-3        	4.3952              	0.49402654419518655 	Random
+				-2        	6.99647266313933    	0.2209027726691992  	Random
+				-1        	8.142857142857144   	0.14853624533090568 	Random
+				+1        	3.857142857142857   	0.5701619127830211  	Random
+				+2        	2.3333333333333335  	0.8013589222076911  	Random
+				+3        	1.4                 	0.924313272801667   	Random
+				+4        	1.0                 	0.9625657732472964  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	10                  	0.8458148386257579  	Random
+				-8.0      	8                   	0.9449844010606654  	Random
+				-7.0      	11                  	0.7668484756777447  	Random
+				-6.0      	10                  	0.8089762945762341  	Random
+				-5.0      	8                   	0.9290127047257105  	Random
+				-4.0      	12                  	0.6135052661279109  	Random
+				-3.0      	13                  	0.47328946538009    	Random
+				-2.0      	10                  	0.6434288435636205  	Random
+				-1.0      	10                  	0.4226780741706355  	Random
+				+1.0      	1                   	0.10880943004054568 	Random
