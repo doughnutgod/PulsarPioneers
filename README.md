@@ -15,7 +15,7 @@ The correlation time-scale for pulse-to-pulse correlations for different pulsars
 
 
 The primary project deliverables will be:
-- [ ] a table listing the correlation time-scale for different pulsars
+- [x] a table listing the correlation time-scale for different pulsars
 - [ ] a description of the analysis method used
 - [ ] an analysis of how random the pulse intensities actually are (after accounting for the correlation time scale)
 - [ ] Recommendations for further work.
