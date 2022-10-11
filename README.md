@@ -24,8 +24,8 @@ The primary project deliverables will be:
 
 Member | Student ID |
 --- | --- | 
-Matthew Oxley | 44991738
 Max Grant | 44910118
+Matthew Oxley | 44991738
 Afeef Ahmed | 45833814
 Tajkinur Rahman | 46124225
 Alexandra Ellison | 45888949
