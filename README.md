@@ -123,3 +123,14 @@ The frame-work follows for each notebook in this format.
 - Transforming data using Autocorrelation and other methods to find more usable data for final testing.
 - Exportation of data into proper datasets to be tested using external programs or scripts in binary format.
 - Reimportation of test results and evaluation
+
+## Sub File Contents Explanation
+
+Folder | Contents 
+--- | --- | 
+Data | Contains the Pulsar raw data 
+Master Notebook Outputs | All outputs Generated from the Master Notebook, Edgecase protection against errors in collation. 
+PulsarBinaryData | Binary data in TXT format ready for NIST suite 
+PulsarBinaryDataResulsts | The Results of all data from the NIST Suite 
+PulsarBinaryDataResulstsCSV | Contains all the results transcribed into CSV format for import 
+redundancy notebooks | This contains the original 2 notebooks from week 2 before segregation
