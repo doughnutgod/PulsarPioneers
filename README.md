@@ -17,7 +17,7 @@ This environment has been created in Jupyter Notebooks via the Anaconda suite. U
 - Statsmodels (https://pypi.org/project/statsmodels/)
 - Randtest (https://pypi.org/project/randtest/)
 
-Most of these dependencies should be native to tensorflow. The ones known to not be native are Keras, Tesorflow and Randtest.
+Most of these dependencies should be native to anaconda. The ones known to not be native are Keras, Tesorflow and Randtest.
 
 Installation commands for Randtest is currently (as it is not on conda):
 
