@@ -1,4 +1,54 @@
 # COMP3850 PACE project/internship with CSIRO. Pulsar Emission Study
+
+## **Mandatory Python Dependencies needed**.
+This environment has been created in Jupyter Notebooks via the Anaconda suite. Using **Python 3.9.7**, the minimum python dependencies required to be in the anaconda environment are as follows to run the notebooks.
+
+- Pandas (native to anaconda)
+- Numpy (native to anaconda)
+- Seaborn (https://pypi.org/project/seaborn/)
+- Matplotlib (https://pypi.org/project/matplotlib/)
+- sklearn (native to anaconda)
+- datetime (In Python (Unsure))
+- scipy (https://pypi.org/project/scipy/)
+- Keras (https://pypi.org/project/keras/)
+- Tensorflow (https://pypi.org/project/tensorflow/)
+- Statsmodels (https://pypi.org/project/statsmodels/)
+- Randtest (https://pypi.org/project/randtest/)
+
+Most of these dependencies should be native to tensorflow. The ones known to not be native are Keras, Tesorflow and Randtest.
+
+Installation commands for Randtest is currently (as it is not on conda):
+
+````
+pip install randtest
+
+or
+
+git clone https://github.com/sudo-rushil/randtest
+cd randtest
+python setup.py install
+````
+
+Errors such as:
+
+````
+ImportError: Missing required dependencies ['numpy']
+
+ImportError: No module named pandas
+````
+
+can be resolved through solutions such as
+
+````
+pip install numpy
+pip install pandas
+
+conda install numpy
+conda install pandas
+````
+
+This is done through the anaconda terminal or properly directed command prompt. Any other errors are currently unknown or not encountered. Best solution for these edgecases is google and stackoverflow of the error(s).
+
 ## Project: Evaluation of pulsar randomness.
 
 ***Project Brief By Sponsor***: Pulsars are amongst the most extreme objects known in the universe. They spin so fast that their surface is moving close to the speed of light, their density is so great that their interiors may contain free quarks and their magnetic fields are the highest known in the universe. The majority of known pulsars have been discovered by the CSIRO Parkes radio telescope or with CSIRO instrumentation sold overseas, and pulsar research within Australia is internationally renowned. Pulsar research has, so far, led to two Nobel Prizes and represents key-science at the majority of current and planning radio telescopes (including the Square Kilometre Array).
@@ -14,9 +64,9 @@ Here we wish to determine which pulsars can be used as random number sources. In
 The correlation time-scale for pulse-to-pulse correlations for different pulsars
 
 
-The primary project deliverables will be:
+The primary project deliverables will be (Ticked off by Group Members):
 - [x] a table listing the correlation time-scale for different pulsars
-- [ ] a description of the analysis method used
+- [x] a description of the analysis method used
 - [ ] an analysis of how random the pulse intensities actually are (after accounting for the correlation time scale)
 - [ ] Recommendations for further work.
 
@@ -35,7 +85,7 @@ Alexandra Ellison | 45888949
 Data was retrieved from the Parkes Telescope by the CSIRO (https://www.parkes.atnf.csiro.au)
 
 
-CSIRO Catalogue used to get datasets: https://www.atnf.csiro.au/research/pulsar/psrcat/
+CSIRO Catalogue used to get datasets (https://www.atnf.csiro.au/research/pulsar/psrcat/)
 
 ID | Pulsar | Date | Number of Pulses | Filename
 --- | --- | --- | --- | --- |
@@ -70,3 +120,4 @@ The frame-work follows for each notebook in this format.
 - Basic ML analysis and predicting any and all effects that Uncertainty has on the evaluation of the current method used. ML methods currently used are Bi-directional LSTM and Logistic Regression.
 - Transforming data using Autocorrelation and other methods to find more usable data for final testing.
 - Exportation of data into proper datasets to be tested using external programs or scripts in binary format.
+- Reimportation of test results and evaluation

@@ -1,0 +1,33 @@
+﻿Test Name,P-Value,Outcome
+Frequency Test (Monobit),0.977150388,Random
+Frequency Test within a Block,3.98E-02,Random
+Run Test,1.98E-05,Non-Random
+Longest Run of Ones in a Block,8.55E-02,Random
+Binary Matrix Rank Test,6.94E-01,Random
+Discrete Fourier Transform (Spectral) Test,6.48E-02,Random
+Non-Overlapping Template Matching Test,3.23E-02,Random
+Overlapping Template Matching Test,2.96E-01,Random
+Maurer's Universal Statistical Test,-1.00E+00,Non-Random
+Linear Complexity Test,2.96E-02,Random
+Serial Test A,8.53E-01,Random
+Serial Test B,9.63E-01,Random
+Approximate Entropy Test,9.56E-01,Random
+Cumulative Sums (Forward) Test,7.61E-01,Random
+Cumulative Sums (Reverse) Test,7.61E-01,Random
+Random Excursions Test State -4,2.54E-04,Non-Random
+Random Excursions Test State -3,1.91E-02,Random
+Random Excursions Test State -2,1.62E-01,Random
+Random Excursions Test State -1,6.73E-02,Random
+Random Excursions Test State +1,9.41E-01,Random
+Random Excursions Test State +2,9.51E-01,Random
+Random Excursions Test State +3,1.55E-01,Random
+Random Excursions Test State +4,2.71E-02,Random
+Random Exursions Variant Test State +1,1.70E-01,Random
+Random Exursions Variant Test State +2,1.66E-01,Random
+Random Exursions Variant Test State +3,6.45E-01,Random
+Random Exursions Variant Test State +4,1.00E+00,Random
+Random Exursions Variant Test State +5,7.75E-01,Random
+Random Exursions Variant Test State +6,6.42E-01,Random
+Random Exursions Variant Test State +7,8.12E-01,Random
+Random Exursions Variant Test State +8,9.65E-01,Random
+Random Exursions Variant Test State +9,8.35E-01,Random
