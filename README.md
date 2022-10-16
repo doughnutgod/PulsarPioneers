@@ -1,5 +1,7 @@
 # COMP3850 PACE project/internship with CSIRO. Pulsar Emission Study
 
+Created by Matthew Oxley | Git: doughnutgod | PACE Group 15.
+
 ## **Mandatory Python Dependencies needed**.
 This environment has been created in Jupyter Notebooks via the Anaconda suite. Using **Python 3.9.7**, the minimum python dependencies required to be in the anaconda environment are as follows to run the notebooks.
 
@@ -72,13 +74,13 @@ The primary project deliverables will be (Ticked off by Group Members):
 
 ## Group Members of Group 15
 
-Member | Student ID |
---- | --- | 
-Max Grant | 44910118
-Matthew Oxley | 44991738
-Afeef Ahmed | 45833814
-Tajkinur Rahman | 46124225
-Alexandra Ellison | 45888949
+Member | Student ID | Git Names
+--- | --- | --- |
+Max Grant | 44910118 | mgrant223
+Matthew Oxley | 44991738 | dougnutgod
+Afeef Ahmed | 45833814 | Syed-Afeef
+Tajkinur Rahman | 46124225 | Tajkinur Rahman
+Alexandra Ellison | 45888949 | Alexandra
 
 ## Pulsar Datasets
 
