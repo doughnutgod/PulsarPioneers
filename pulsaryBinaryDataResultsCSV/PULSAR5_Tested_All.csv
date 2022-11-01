@@ -7,7 +7,7 @@ Binary Matrix Rank Test,6.94E-01,Random
 Discrete Fourier Transform (Spectral) Test,6.48E-02,Random
 Non-Overlapping Template Matching Test,3.23E-02,Random
 Overlapping Template Matching Test,2.96E-01,Random
-Maurer's Universal Statistical Test,-1.00E+00,Non-Random
+Maurer's Universal Statistical Test,-1.00E+00,Error
 Linear Complexity Test,2.96E-02,Random
 Serial Test A,8.53E-01,Random
 Serial Test B,9.63E-01,Random
@@ -22,10 +22,19 @@ Random Excursions Test State +1,9.41E-01,Random
 Random Excursions Test State +2,9.51E-01,Random
 Random Excursions Test State +3,1.55E-01,Random
 Random Excursions Test State +4,2.71E-02,Random
+Random Exursions Variant Test State -9,0.8678594340383505,Random
+Random Exursions Variant Test State -8,0.7904822281393452,Random
+Random Exursions Variant Test State -7,0.6685882581247791,Random
+Random Exursions Variant Test State -6,0.5694942779917189,Random
+Random Exursions Variant Test State -5,0.3311374592689704,Random
+Random Exursions Variant Test State -4,0.19483514774305022,Random
+Random Exursions Variant Test State -3,0.1450519420995288,Random
+Random Exursions Variant Test State -2,0.09232654595631032,Random
+Random Exursions Variant Test State -1,0.2299490567942134,Random
 Random Exursions Variant Test State +1,1.70E-01,Random
 Random Exursions Variant Test State +2,1.66E-01,Random
 Random Exursions Variant Test State +3,6.45E-01,Random
-Random Exursions Variant Test State +4,1.00E+00,Random
+Random Exursions Variant Test State +4,1.00E+00,Absolute
 Random Exursions Variant Test State +5,7.75E-01,Random
 Random Exursions Variant Test State +6,6.42E-01,Random
 Random Exursions Variant Test State +7,8.12E-01,Random

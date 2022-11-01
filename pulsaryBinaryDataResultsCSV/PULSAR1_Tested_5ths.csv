@@ -7,7 +7,7 @@ Binary Matrix Rank Test,0.858289697,Random
 Discrete Fourier Transform (Spectral) Test,0.4536953,Random
 Non-Overlapping Template Matching Test,0.42473515,Random
 Overlapping Template Matching Test,0.418206652,Random
-Maurer's Universal Statistical Test,-1,Non-Random
+Maurer's Universal Statistical Test,-1,Error
 Linear Complexity Test,0.757153251,Random
 Serial Test A,0.148532969,Random
 Serial Test B,0.445236925,Random

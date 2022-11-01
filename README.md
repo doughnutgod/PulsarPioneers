@@ -111,6 +111,8 @@ Notebook ID | Name | Pulsar(s)
 #5 | Pulsar5.ipynb | Pulsar 5 
 #6 | Pulsar6.ipynb | Pulsar 6
 #7 | MasterNotebook.ipynb | Pulsars 1-6
+#8 | Report.ipynb | Report Notebook of Results
+
 
 The purpose of the seventh notebook is to collate and condense all the relevent pulsar analysis into 1 spot for easy transfer of work and data processing. This can also aid in presentation through exportation into a PDF document for easier accessibility of work.
 

@@ -3,15 +3,15 @@ Frequency Test (Monobit),0.833935414,Random
 Frequency Test within a Block,3.34E-03,Non-Random
 Run Test,3.35E-03,Non-Random
 Longest Run of Ones in a Block,4.35E-01,Random
-Binary Matrix Rank Test,-1.00E+00,Non-Random
+Binary Matrix Rank Test,-1.00E+00,Error
 Discrete Fourier Transform (Spectral) Test,3.12E-01,Random
-Non-Overlapping Template Matching Test,1.00E+00,Random
-Overlapping Template Matching Test,-1.00E+00,Non-Random
-Maurer's Universal Statistical Test,-1.00E+00,Non-Random
-Linear Complexity Test,-1.00E+00,Non-Random
+Non-Overlapping Template Matching Test,1.00E+00,Absolute
+Overlapping Template Matching Test,-1.00E+00,Error
+Maurer's Universal Statistical Test,-1.00E+00,Error
+Linear Complexity Test,-1.00E+00,Error
 Serial Test A,0.00E+00,Non-Random
 Serial Test B,0.00E+00,Non-Random
-Approximate Entropy Test,1.00E+00,Random
+Approximate Entropy Test,1.00E+00,Absolute
 Cumulative Sums (Forward) Test,3.97E-03,Non-Random
 Cumulative Sums (Reverse) Test,7.88E-03,Non-Random
 Random Excursions Test State -4,9.98E-01,Random
