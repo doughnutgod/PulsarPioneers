@@ -1,6 +1,6 @@
 # COMP3850 PACE project/internship with CSIRO. Pulsar Emission Study
 
-Created by Matthew Oxley | Git: doughnutgod | PACE Group 15.
+Created by PACE Group 15.
 
 ## **Mandatory Python Dependencies needed**.
 This environment has been created in Jupyter Notebooks via the Anaconda suite. Using **Python 3.9.7**, the minimum python dependencies required to be in the anaconda environment are as follows to run the notebooks.
@@ -51,6 +51,11 @@ conda install pandas
 
 This is done through the anaconda terminal or properly directed command prompt. Any other errors are currently unknown or not encountered. Best solution for these edgecases is google and stackoverflow of the error(s).
 
+## Testing Suite Software
+
+We obtained the use of a NIST suite software created in python from this Github Repository
+https://github.com/stevenang/randomness_testsuite By the author Steven Kho Ang
+
 ## Project: Evaluation of pulsar randomness.
 
 ***Project Brief By Sponsor***: Pulsars are amongst the most extreme objects known in the universe. They spin so fast that their surface is moving close to the speed of light, their density is so great that their interiors may contain free quarks and their magnetic fields are the highest known in the universe. The majority of known pulsars have been discovered by the CSIRO Parkes radio telescope or with CSIRO instrumentation sold overseas, and pulsar research within Australia is internationally renowned. Pulsar research has, so far, led to two Nobel Prizes and represents key-science at the majority of current and planning radio telescopes (including the Square Kilometre Array).
@@ -69,8 +74,12 @@ The correlation time-scale for pulse-to-pulse correlations for different pulsars
 The primary project deliverables will be (Ticked off by Group Members):
 - [x] a table listing the correlation time-scale for different pulsars
 - [x] a description of the analysis method used
-- [ ] an analysis of how random the pulse intensities actually are (after accounting for the correlation time scale)
-- [ ] Recommendations for further work.
+- [x] an analysis of how random the pulse intensities actually are (after accounting for the correlation time scale)
+- [x] Recommendations for further work.
+
+## Delivered Result
+
+The final result file will be provided in both the report.ipynb and report.pdf files.
 
 ## Group Members of Group 15
 
