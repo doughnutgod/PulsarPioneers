@@ -81,7 +81,7 @@ The primary project deliverables will be (Ticked off by Group Members):
 
 The final result file will be provided in both the report.ipynb and report.pdf files.
 
-### Note that the Machine learning was attempted on all and only optimised to a higher point with pulsar 1
+### Note that the Machine learning was attempted on all and only optimised to a higher point with pulsar 1 and applied into Master Notebook
 
 ## Group Members of Group 15
 
