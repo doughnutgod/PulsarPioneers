@@ -79,7 +79,7 @@ The primary project deliverables will be (Ticked off by Group Members):
 
 ## Delivered Result
 
-The final result file will be provided in both the report.ipynb and report.pdf files.
+The final result file will be provided in both the report.ipynb and report.pdf (ipynb to pdf export) files. The Final Report Folder will contain the Presentation and a recreated report.pdf from MS Word.
 
 ### Note that the Machine learning was attempted on all and only optimised to a higher point with pulsar 1 and applied into Master Notebook
 
