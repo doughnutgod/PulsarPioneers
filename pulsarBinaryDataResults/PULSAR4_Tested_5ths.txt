@@ -1,4 +1,4 @@
-Test Data File:C:/Users/oxlay/Documents/COMP3850/pulsarBinaryData/every5thbinarypulsar4.txt
+Test Data File:/COMP3850/pulsarBinaryData/every5thbinarypulsar4.txt
 
 
 Type of Test                                      	P-Value             	Conclusion
