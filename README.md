@@ -115,17 +115,12 @@ The team has decided to take an EDA approach to dealing with visualizing, proces
 
 Notebook ID | Name | Pulsar(s)
 --- | --- | --- |
-#1 | Pulsar1.ipynb | Pulsar 1 
-#2 | Pulsar2.ipynb | Pulsar 2 
-#3 | Pulsar3.ipynb | Pulsar 3 
-#4 | Pulsar4.ipynb | Pulsar 4 
-#5 | Pulsar5.ipynb | Pulsar 5 
-#6 | Pulsar6.ipynb | Pulsar 6
-#7 | MasterNotebook.ipynb | Pulsars 1-6
-#8 | Report.ipynb | Report Notebook of Results
+#1 | FinalMasterNotebook.ipynb | Pulsar 6
+#2 | OldMasterNotebook.ipynb | Pulsars 1-6
+#3 | Report.ipynb | Report Notebook of Results
 
 
-The purpose of the seventh notebook is to collate and condense all the relevent pulsar analysis into 1 spot for easy transfer of work and data processing. This can also aid in presentation through exportation into a PDF document for easier accessibility of work.
+The purpose of the master notebook is to collate and condense all the relevent pulsar analysis into 1 spot for easy transfer of work and data processing. This can also aid in presentation through exportation into a PDF document for easier accessibility of work.
 
 The frame-work follows for each notebook in this format.
 
@@ -146,4 +141,4 @@ Master Notebook Outputs | All outputs Generated from the Master Notebook, Edgeca
 PulsarBinaryData | Binary data in TXT format ready for NIST suite 
 PulsarBinaryDataResulsts | The Results of all data from the NIST Suite 
 PulsarBinaryDataResulstsCSV | Contains all the results transcribed into CSV format for import 
-redundancy notebooks | This contains the original 2 notebooks from week 2 before segregation
+Final Report and Presentation | Contains our powerpoint presentation and an a recreation via word doc of the report.ipynb notebook. With PDF exports of both for ease of use.
