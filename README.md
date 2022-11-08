@@ -115,7 +115,7 @@ The team has decided to take an EDA approach to dealing with visualizing, proces
 
 Notebook ID | Name | Pulsar(s)
 --- | --- | --- |
-#1 | Master Notebook.ipynb | Pulsar 6
+#1 | Master Notebook.ipynb | Pulsars 1-6
 #2 | OldMasterNotebook.ipynb | Pulsars 1-6
 #3 | Report.ipynb | Report Notebook of Results
 
